@@ -150,12 +150,14 @@ img {
     }
     .lessons .col {
         width: 100%;
+        padding-bottom: 3rem;
     }
     .row{
         flex-wrap: wrap;
     }
     .steps .col {
         width: 100%;
+    
     }
     .why-us{
         background-color: black;
